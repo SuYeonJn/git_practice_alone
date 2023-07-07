@@ -4,7 +4,7 @@
 //git add , git add -A, git add -ALL
 //git commit -m "commit message"
 //git commit -a -m "staging(Add)+commit 한번에"
-//git log
+//git log (q로 나가기)
 //git ~~ -help (도움말) ex) git commit -help
 //git help --all 모든 command line 보기
 
