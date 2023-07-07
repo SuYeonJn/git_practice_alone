@@ -157,7 +157,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              '변경되었습니다.',
+              'branch 2 변경 사항 -- main에서 바꿈',
             ),
             Text(
               '$_counter',
